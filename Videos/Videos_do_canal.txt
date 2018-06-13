@@ -1,0 +1,38 @@
+Videos Trabalhos no mini curso sobre ciencia de dados na pratica
+
+#1 - Apresentação do curso ciência de dados na prática
+#2 - Apresentação da plataforma Kaggle
+#3 - Um pouco sobre algumas ferramentas usadas em análise de dados
+
+#4 - Primeiros passos no Jupyter Notebook
+#5 - Primeiros passos no Jupyter Notebook - parte II
+#6 - Primeiros passos no Jupyter Notebook - parte III
+
+#1/5 - Minicurso Ciência de Dados Usando Python - Introdução e Anaconda
+#2/5 - Minicurso Ciência de Dados Usando Python - Jupyter
+#3/5 - Minicurso Ciência de Dados Usando Python - numpy
+#4/5 - Minicurso Ciência de Dados Usando Python - matplotlib
+#5/5 - Minicurso Ciência de Dados Usando Python - Pandas
+
+#7 - Dicas de bibliografia e alguns detalhes importantes.
+
+#8 - Primeiros passos no Jupyter Notebook - parte IV
+#9 - Alguns comandos e atalhos no Jupyter - parte I
+#10 - Alguns comandos e atalhos no Jupyter - parte II
+#11 - Criando ambientes
+#12 - Alguns comandos e atalhos no Jupyter - parte III
+
+#13 - Bibliotecas
+#14 - Numpy
+#15 - Numpy continuação
+#16 - Matplotlib
+#17- Matplotlib continuação
+#18 - Pandas
+#19 - Pandas continuação
+
+#20 - Iniciando Análise de Dados a partir de dados de diabetes - Parte I
+#21 - Iniciando Análise de Dados a partir de dados de diabetes - Parte II
+#22 - Iniciando Análise de Dados a partir de dados de diabetes - Parte III
+#23 - Introdução a Análise de Dados
+#24 - Análise de dados Parte I
+#25 - Análise de dados Parte II
