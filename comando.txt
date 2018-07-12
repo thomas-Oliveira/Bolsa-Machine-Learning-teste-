@@ -1,0 +1,2 @@
+ffmpeg -i mi_video.avi -ss 00:01:03 -to 00:05:04 -c:v copy -c:a copy mi_video_cortado.avi
+
